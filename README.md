@@ -1,10 +1,10 @@
 <img align="right" width="140" src="https://visitor-badge.laobi.icu/badge?page_id=beingrahul1.beingrahul1" />
 
-<img width="100%" src="assets/header-banner.svg" alt="Rahul Raj - Backend & Distributed Systems Engineer" />
+<img width="100%" src="header-banner.svg" alt="Rahul Raj - Backend & Distributed Systems Engineer" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=50&duration=3500&lines=Java+%7C+Spring+Boot+%7C+Microservices;Cloud-Based+Distributed+Systems;REST+APIs+%26+Scalable+Backends;GenAI%2FLLM+Integration" />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=50&duration=3500&lines=Java+%7C+Spring+Boot+%7C+Microservic[...]"
 
 <p>
   <img src="https://img.shields.io/badge/📍-Hyderabad%2C%20India-0F2027?style=for-the-badge" />
@@ -59,7 +59,7 @@ reach_me: irahul.raj.in@gmail.com
 
 <br/>
 
-<img width="100%" src="assets/divider-wave.svg" alt="divider" />
+<img width="100%" src="divider-wave.svg" alt="divider" />
 
 <h2 align="center">⚒️ Languages, Frameworks &amp; Tools</h2>
 
@@ -88,7 +88,7 @@ reach_me: irahul.raj.in@gmail.com
   </tr>
 </table>
 
-<img width="100%" src="assets/divider-wave.svg" alt="divider" />
+<img width="100%" src="divider-wave.svg" alt="divider" />
 
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
@@ -110,12 +110,12 @@ reach_me: irahul.raj.in@gmail.com
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=beingrahul1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=beingrahul1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrahul1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrahul1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight[...]"
 </div>
 
 <br/>
 
-<img width="100%" src="assets/footer-banner.svg" alt="footer" />
+<img width="100%" src="footer-banner.svg" alt="footer" />
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/beingrahul1">beingrahul1</a> — thanks for stopping by!</i>
