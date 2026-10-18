@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=50&duration=3500&lines=Java+%7C+Spring+Boot+%7C+Microservic[...]"
+![Java | Spring Boot | Microservices Typing](https://readme-typing-svg.demolab.com/?font=Righteous&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=50&duration=3500&lines=Java+%7C+Spring+Boot+%7C+Microservices)
 
 <p>
   <img src="https://img.shields.io/badge/📍-Hyderabad%2C%20India-0F2027?style=for-the-badge" />
