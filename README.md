@@ -1,6 +1,6 @@
 <img align="right" width="140" src="https://visitor-badge.laobi.icu/badge?page_id=beingrahul1.beingrahul1" />
 
-<img width="100%" src="header-banner.svg" alt="Rahul Raj - Backend & Distributed Systems Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/beingrahul1/beingrahul1/main/header-banner.svg" alt="Rahul Raj - Backend & Distributed Systems Engineer" />
 
 <div align="center">
 
@@ -59,7 +59,7 @@ reach_me: irahul.raj.in@gmail.com
 
 <br/>
 
-<img width="100%" src="divider-wave.svg" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/beingrahul1/beingrahul1/main/divider-wave.svg" alt="divider" />
 
 <h2 align="center">⚒️ Languages, Frameworks &amp; Tools</h2>
 
@@ -88,7 +88,7 @@ reach_me: irahul.raj.in@gmail.com
   </tr>
 </table>
 
-<img width="100%" src="divider-wave.svg" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/beingrahul1/beingrahul1/main/divider-wave.svg" alt="divider" />
 
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
@@ -115,7 +115,7 @@ reach_me: irahul.raj.in@gmail.com
 
 <br/>
 
-<img width="100%" src="footer-banner.svg" alt="footer" />
+<img width="100%" src="https://raw.githubusercontent.com/beingrahul1/beingrahul1/main/footer-banner.svg" alt="footer" />
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/beingrahul1">beingrahul1</a> — thanks for stopping by!</i>
